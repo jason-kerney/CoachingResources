@@ -24,7 +24,8 @@
     
 
 ## Multitasking ##
-#### (Research) ####
+
+### Research
 
 [Higher Media Multi-Tasking Activity Is Associated with Smaller Gray-Matter Density in the Anterior Cingulate Cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174517/)
 
@@ -72,7 +73,8 @@
     
 
 ## TDD ##
-#### (Research) ####
+
+### Research
 
 [An Initial Investigation of Test Driven Development in Industry](https://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf)
 

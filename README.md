@@ -7,8 +7,8 @@
 
 - [Section 1: General](#user-content-general)
 - [Section 2: Learning](#user-content-learning)
-- [Section 3: Process](#user-content-process)
-- [Section 4: Team Work](#user-content-team-work)
+- [Section 3: Team Work](#user-content-team-work)
+- [Section 4: Process](#user-content-process)
 - [Section 5: TDD](#user-content-tdd)
 
 ## General ##
@@ -29,6 +29,13 @@
 [Veritosium Kahn Video](https://www.youtube.com/watch?v=eVtCO84MDj8)
     
 
+## Team Work ##
+
+[The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
+
+[The 4 Team Toxins](https://www.leadbeyond.global/news/teams/the-four-team-toxins/)
+    
+
 ## Process ##
 
 [Improving The Stand-Up](https://improvingflow.com/2021/05/17/improving-standup.html)
@@ -36,13 +43,6 @@
 [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
 
 [Slack Simulator](https://setosa.io/blog/2014/09/02/gridlock/)
-    
-
-## Team Work ##
-
-[The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
-
-[The 4 Team Toxins](https://www.leadbeyond.global/news/teams/the-four-team-toxins/)
     
 
 ## TDD ##

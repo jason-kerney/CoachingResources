@@ -7,26 +7,33 @@
 
 - [Section 1: General](#user-content-general)
 - [Section 2: Learning](#user-content-learning)
-- [Section 3: Team Work](#user-content-team-work)
-- [Section 4: Process](#user-content-process)
-- [Section 5: TDD](#user-content-tdd)
+- [Section 3: Learning](#user-content-learning)
+- [Section 4: Team Work](#user-content-team-work)
+- [Section 5: Process](#user-content-process)
+- [Section 6: TDD](#user-content-tdd)
+- [Section 7: Learning](#user-content-learning)
 
 ## General ##
 
-[Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
-
 [Modern Agile](https://www.youtube.com/watch?v=0PMYKxTkdU0)
 
+[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+
 [Organizational Colors](https://www.workplacepeaceinstitute.com/post/reimagining-the-workplace-organizational-paradigms)
-
-[The Responsibility Process](https://www.youtube.com/watch?v=urcezKRhpoY)
-
-[Remote Facilitators Pocket Guide](https://www.amazon.com/Remote-Facilitators-Pocket-Guide/dp/1523089105)
     
 
 ## Learning ##
 
 [Veritosium Kahn Video](https://www.youtube.com/watch?v=eVtCO84MDj8)
+    
+
+## Learning ##
+
+[Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
+
+[The Responsibility Process](https://www.youtube.com/watch?v=urcezKRhpoY)
+
+[Remote Facilitators Pocket Guide](https://www.amazon.com/Remote-Facilitators-Pocket-Guide/dp/1523089105)
     
 
 ## Team Work ##
@@ -43,6 +50,8 @@
 [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
 
 [Slack Simulator](https://setosa.io/blog/2014/09/02/gridlock/)
+
+[Optimizing for the Developer: Mindful Intentionality](http://www.chrisstead.net/developer-practice/work-optimization/2020/10/08/optimizing-for-the-developer-mindful-intentionality.html)
     
 
 ## TDD ##
@@ -58,6 +67,15 @@
 [The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis](https://www.semanticscholar.org/paper/The-Effects-of-Test-Driven-Development-on-External-Rafique-Misic/7a0b5586669a4ba9c0ac5b2fe59f58c4e8330f58)
 
 [Realizing quality improvement through test driven development: results and experiences of four industrial teams](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Realizing-Quality-Improvement-Through-Test-Driven-Development-Results-and-Experiences-of-Four-Industrial-Teams-nagappan_tdd.pdf)
+    
+
+## Learning ##
+
+[What Makes A Good Test Suite](https://arlobelshee.com/what-makes-a-good-test-suite/llewellyn-falco/)
+
+[Learn Git Branching](https://learngitbranching.js.org/)
+
+[Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/)
     
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->

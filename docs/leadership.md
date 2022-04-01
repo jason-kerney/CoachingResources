@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "Learning"))
+    (title "Leadership & Coaching"))
 /bl-->
 
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)

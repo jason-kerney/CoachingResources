@@ -13,7 +13,7 @@
     "aliases": [
         {
             "name": "docs",
-            "command": "cls;booklisp ./docs/_readme.md ./README.md && gittey commit"
+            "command": "cls;booklisp ./docs/_readme.md ./README.md && gittey commit && git push"
         }
     ],
     "collaborators": []

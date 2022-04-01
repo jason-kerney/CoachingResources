@@ -76,6 +76,8 @@
 [Learn Git Branching](https://learngitbranching.js.org/)
 
 [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/)
+
+[The Worst Programming Language Ever](https://skillsmatter.com/skillscasts/6088-the-worst-programming-language-ever)
     
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->

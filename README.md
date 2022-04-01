@@ -1,7 +1,17 @@
-# CoachingResources
-A list of links I give to people
 
-## General
+<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
+# Coaching Resources #
+#### A list of links I give to people ####
+
+## Table Of Contents ##
+
+- [Section 1: General](#user-content-general)
+- [Section 2: Learning](#user-content-learning)
+- [Section 3: Process](#user-content-process)
+- [Section 4: Team Work](#user-content-team-work)
+- [Section 5: TDD](#user-content-tdd)
+
+## General ##
 
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
 
@@ -12,12 +22,14 @@ A list of links I give to people
 [The Responsibility Process](https://www.youtube.com/watch?v=urcezKRhpoY)
 
 [Remote Facilitators Pocket Guide](https://www.amazon.com/Remote-Facilitators-Pocket-Guide/dp/1523089105)
+    
 
-## Learning
+## Learning ##
 
 [Veritosium Kahn Video](https://www.youtube.com/watch?v=eVtCO84MDj8)
+    
 
-## Process
+## Process ##
 
 [Improving The Stand-Up](https://improvingflow.com/2021/05/17/improving-standup.html)
 
@@ -26,14 +38,16 @@ A list of links I give to people
 [Slack Simulator](https://setosa.io/blog/2014/09/02/gridlock/)
 
 [TDD Research Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Realizing-Quality-Improvement-Through-Test-Driven-Development-Results-and-Experiences-of-Four-Industrial-Teams-nagappan_tdd.pdf)
+    
 
-## Team Work
+## Team Work ##
 
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
 
 [The 4 Team Toxins](https://www.leadbeyond.global/news/teams/the-four-team-toxins/)
+    
 
-## TDD
+## TDD ##
 
 [An Initial Investigation of Test Driven Development in Industry](https://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf)
 
@@ -44,3 +58,7 @@ A list of links I give to people
 [TDD Dynamics: Understanding the Impact of Test-Driven Development on Software Quality and Productivity](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwilgtPBlYvnAhWLqZ4KHS66CE4QFjAAegQIBhAB&url=https%3A%2F%2Fdigital.library.ryerson.ca%2Fislandora%2Fobject%2FRULA%253A2150%2Fdatastream%2FOBJ%2Fdownload%2FTDD_Dynamics__Understanding_the_Impact_of_Test-Driven_Development_on_Software_Quality_and_Productivity.pdf&usg=AOvVaw20OD1tkR-HMrphV95aNjJw)
 
 [The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis](https://www.semanticscholar.org/paper/The-Effects-of-Test-Driven-Development-on-External-Rafique-Misic/7a0b5586669a4ba9c0ac5b2fe59f58c4e8330f58)
+    
+
+<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
+    

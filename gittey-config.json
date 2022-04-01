@@ -14,6 +14,10 @@
         {
             "name": "docs",
             "command": "cls;booklisp ./docs/_readme.md ./README.md && gittey commit && git push"
+        },
+        {
+            "name": "test",
+            "command": "cls;booklisp ./docs/_readme.md ./README.md"
         }
     ],
     "collaborators": []

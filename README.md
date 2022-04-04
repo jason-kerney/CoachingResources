@@ -8,7 +8,7 @@
 - [Section 1: General](#user-content-general)
 - [Section 2: Multitasking](#user-content-multitasking)
 - [Section 3: Learning](#user-content-learning)
-- [Section 4: Leadership & Coaching](#user-content-leadership-&-coaching)
+- [Section 4: Leadership And Coaching](#user-content-leadership-and-coaching)
 - [Section 5: Team Work](#user-content-team-work)
 - [Section 6: Process](#user-content-process)
 - [Section 7: TDD](#user-content-tdd)
@@ -48,7 +48,7 @@
 [Veritosium Kahn Video](https://www.youtube.com/watch?v=eVtCO84MDj8)
     
 
-## Leadership & Coaching ##
+## Leadership And Coaching ##
 
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
 

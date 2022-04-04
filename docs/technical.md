@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "Learning"))
+    (title "Technical"))
 /bl-->
 
 [What Makes A Good Test Suite](https://arlobelshee.com/what-makes-a-good-test-suite/llewellyn-falco/)

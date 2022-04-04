@@ -12,7 +12,7 @@
 - [Section 5: Team Work](#user-content-team-work)
 - [Section 6: Process](#user-content-process)
 - [Section 7: TDD](#user-content-tdd)
-- [Section 8: Learning](#user-content-learning)
+- [Section 8: Technical](#user-content-technical)
 
 ## General ##
 
@@ -90,7 +90,7 @@
 [Realizing quality improvement through test driven development: results and experiences of four industrial teams](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Realizing-Quality-Improvement-Through-Test-Driven-Development-Results-and-Experiences-of-Four-Industrial-Teams-nagappan_tdd.pdf)
     
 
-## Learning ##
+## Technical ##
 
 [What Makes A Good Test Suite](https://arlobelshee.com/what-makes-a-good-test-suite/llewellyn-falco/)
 

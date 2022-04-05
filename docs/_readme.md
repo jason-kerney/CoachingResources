@@ -9,6 +9,7 @@
     (section-main "./multitasking.md")
     (section-main "./learning.md")
     (section-main "./leadership.md")
+    (section-main "./facilitator-tools.md")
     (section-main "./team_work.md")
     (section-main "./process.md")
     (section-main "./tdd.md")

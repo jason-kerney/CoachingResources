@@ -10,20 +10,17 @@
 - [Section 3: Multitasking](#user-content-multitasking)
 - [Section 4: Learning](#user-content-learning)
 - [Section 5: Leadership And Coaching](#user-content-leadership-and-coaching)
-- [Section 6: Team Work](#user-content-team-work)
-- [Section 7: Process](#user-content-process)
-- [Section 8: TDD](#user-content-tdd)
-- [Section 9: Technical](#user-content-technical)
+- [Section 6: Facilitator Tools](#user-content-facilitator-tools)
+- [Section 7: Team Work](#user-content-team-work)
+- [Section 8: Process](#user-content-process)
+- [Section 9: TDD](#user-content-tdd)
+- [Section 10: Technical](#user-content-technical)
 
 ## General ##
 
 [Organizational Colors](https://www.workplacepeaceinstitute.com/post/reimagining-the-workplace-organizational-paradigms)
 
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
-
-[List Shuffler](https://www.random.org/lists/)
-
-[Combination Generator](https://calculla.com/combinations_generator)
     
 
 ## Agile ##
@@ -60,6 +57,13 @@
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
 
 [The Responsibility Process](https://www.youtube.com/watch?v=urcezKRhpoY)
+    
+
+## Facilitator Tools ##
+
+[List Shuffler](https://www.random.org/lists/)
+
+[Combination Generator](https://calculla.com/combinations_generator)
     
 
 ## Team Work ##

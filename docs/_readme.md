@@ -12,7 +12,8 @@
     (section-main "./facilitator-tools.md")
     (section-main "./team_work.md")
     (section-main "./process.md")
-    (section-main "./tdd.md")
+    (section-main "./tdd-research.md")
+    (section-main "./pairprogramming-research.md")
     (section-main "./technical.md")
 )
 /bl-->

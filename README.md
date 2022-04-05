@@ -13,8 +13,9 @@
 - [Section 6: Facilitator Tools](#user-content-facilitator-tools)
 - [Section 7: Team Work](#user-content-team-work)
 - [Section 8: Process](#user-content-process)
-- [Section 9: TDD](#user-content-tdd)
-- [Section 10: Technical](#user-content-technical)
+- [Section 9: TDD Research](#user-content-tdd-research)
+- [Section 10: Pair Programming Research](#user-content-pair-programming-research)
+- [Section 11: Technical](#user-content-technical)
 
 ## General ##
 
@@ -84,9 +85,7 @@
 [Optimizing for the Developer: Mindful Intentionality](http://www.chrisstead.net/developer-practice/work-optimization/2020/10/08/optimizing-for-the-developer-mindful-intentionality.html)
     
 
-## TDD ##
-
-### Research ###
+## TDD Research ##
 
 [An Initial Investigation of Test Driven Development in Industry](https://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf)
 
@@ -99,6 +98,16 @@
 [The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis](https://www.semanticscholar.org/paper/The-Effects-of-Test-Driven-Development-on-External-Rafique-Misic/7a0b5586669a4ba9c0ac5b2fe59f58c4e8330f58)
 
 [Realizing quality improvement through test driven development: results and experiences of four industrial teams](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Realizing-Quality-Improvement-Through-Test-Driven-Development-Results-and-Experiences-of-Four-Industrial-Teams-nagappan_tdd.pdf)
+    
+
+## Pair Programming Research ##
+(The Costs and Benefits of Pair Programming)[https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF]
+
+(The Effects of Pair-Programming on Performance in an
+Introductory Programming Course)[https://courses.cs.washington.edu/courses/cse590e/02sp/pairprogramming.pdf]
+
+(Strengthening the Case
+for Pair Programming)[https://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF]
     
 
 ## Technical ##

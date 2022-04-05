@@ -5,6 +5,7 @@
 
 (table-of-contents
     (section-main "./general.md")
+    (section-main "./agile.md")
     (section-main "./multitasking.md")
     (section-main "./learning.md")
     (section-main "./leadership.md")

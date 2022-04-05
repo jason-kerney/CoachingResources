@@ -6,24 +6,29 @@
 ## Table Of Contents ##
 
 - [Section 1: General](#user-content-general)
-- [Section 2: Multitasking](#user-content-multitasking)
-- [Section 3: Learning](#user-content-learning)
-- [Section 4: Leadership And Coaching](#user-content-leadership-and-coaching)
-- [Section 5: Team Work](#user-content-team-work)
-- [Section 6: Process](#user-content-process)
-- [Section 7: TDD](#user-content-tdd)
-- [Section 8: Technical](#user-content-technical)
+- [Section 2: Agile](#user-content-agile)
+- [Section 3: Multitasking](#user-content-multitasking)
+- [Section 4: Learning](#user-content-learning)
+- [Section 5: Leadership And Coaching](#user-content-leadership-and-coaching)
+- [Section 6: Team Work](#user-content-team-work)
+- [Section 7: Process](#user-content-process)
+- [Section 8: TDD](#user-content-tdd)
+- [Section 9: Technical](#user-content-technical)
 
 ## General ##
-
-[Modern Agile](https://www.youtube.com/watch?v=0PMYKxTkdU0)
-
-[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 
 [Organizational Colors](https://www.workplacepeaceinstitute.com/post/reimagining-the-workplace-organizational-paradigms)
 
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
 
+[List Shuffler](https://www.random.org/)
+    
+
+## Agile ##
+
+[Modern Agile](https://www.youtube.com/watch?v=0PMYKxTkdU0)
+
+[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
     
 
 ## Multitasking ##

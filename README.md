@@ -21,7 +21,9 @@
 
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
 
-[List Shuffler](https://www.random.org/)
+[List Shuffler](https://www.random.org/lists/)
+
+[Combination Generator](https://calculla.com/combinations_generator)
     
 
 ## Agile ##

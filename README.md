@@ -31,8 +31,6 @@
 
 ## Multitasking Research ##
 
-### Research ###
-
 [Higher Media Multi-Tasking Activity Is Associated with Smaller Gray-Matter Density in the Anterior Cingulate Cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174517/)
 
 [Media multitasking and memory: Differences in working memory and long-term memory](https://pubmed.ncbi.nlm.nih.gov/26223469/)

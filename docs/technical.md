@@ -12,3 +12,5 @@
 [The Worst Programming Language Ever](https://skillsmatter.com/skillscasts/6088-the-worst-programming-language-ever)
 
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
+
+[Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)

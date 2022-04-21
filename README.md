@@ -20,6 +20,8 @@
 ## General ##
 
 [Organizational Colors](https://www.workplacepeaceinstitute.com/post/reimagining-the-workplace-organizational-paradigms)
+
+[Agile Resource Trello](https://trello.com/b/1lfMkCOh/software-profession-resources)
     
 
 ## Agile ##
@@ -117,6 +119,8 @@
 [The Worst Programming Language Ever](https://skillsmatter.com/skillscasts/6088-the-worst-programming-language-ever)
 
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
+
+[Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)
     
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->

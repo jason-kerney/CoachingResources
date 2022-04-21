@@ -7,7 +7,7 @@
 
 - [Section 1: General](#user-content-general)
 - [Section 2: Agile](#user-content-agile)
-- [Section 3: Multitasking](#user-content-multitasking)
+- [Section 3: Multitasking Research](#user-content-multitasking-research)
 - [Section 4: Learning](#user-content-learning)
 - [Section 5: Leadership And Coaching](#user-content-leadership-and-coaching)
 - [Section 6: Facilitator Tools](#user-content-facilitator-tools)
@@ -29,9 +29,7 @@
 [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
     
 
-## Multitasking ##
-
-### Research ###
+## Multitasking Research ##
 
 [Higher Media Multi-Tasking Activity Is Associated with Smaller Gray-Matter Density in the Anterior Cingulate Cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174517/)
 

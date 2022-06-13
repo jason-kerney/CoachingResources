@@ -13,11 +13,13 @@
     "aliases": [
         {
             "name": "docs",
-            "command": "cls;booklisp ./docs/_readme.md ./README.md && gittey commit && git push"
+            "command": "cls;booklisp ./docs/_readme.md ./README.md && gittey commit && git push",
+            "description": "Builds the docs, commits and pushes"
         },
         {
             "name": "test",
-            "command": "cls;booklisp ./docs/_readme.md ./README.md"
+            "command": "cls;booklisp ./docs/_readme.md ./README.md",
+            "description": "Builds the docs for comparison"
         }
     ],
     "collaborators": []

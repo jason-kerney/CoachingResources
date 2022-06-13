@@ -14,3 +14,5 @@
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
 
 [Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)
+
+[A curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)

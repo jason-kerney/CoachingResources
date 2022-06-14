@@ -16,6 +16,7 @@
 - [Section 9: TDD Research](#user-content-tdd-research)
 - [Section 10: Pair Programming Research](#user-content-pair-programming-research)
 - [Section 11: Technical](#user-content-technical)
+- [Section 12: Random Collection of Tools](#user-content-random-collection-of-tools)
 
 ## General ##
 
@@ -127,6 +128,11 @@
 [Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)
 
 [A curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
+    
+
+## Random Collection of Tools ##
+
+[List Randomizer](https://www.random.org/lists/)
     
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->

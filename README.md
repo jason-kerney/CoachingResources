@@ -11,7 +11,7 @@
 - [Section 4: Learning](#user-content-learning)
 - [Section 5: Leadership And Coaching](#user-content-leadership-and-coaching)
 - [Section 6: Facilitator Tools](#user-content-facilitator-tools)
-- [Section 7: Team Work](#user-content-team-work)
+- [Section 7: Teamwork](#user-content-teamwork)
 - [Section 8: Process](#user-content-process)
 - [Section 9: TDD Research](#user-content-tdd-research)
 - [Section 10: Pair Programming Research](#user-content-pair-programming-research)
@@ -27,6 +27,8 @@
 [Cognitive Bias Index](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg?ref=insanelyusefulwebsites)
 
 [Sunglass Selection App Development at Nordstrom](https://www.youtube.com/watch?v=2NFH3VC6LNs). This failed on launch because the sales force was not consulted. They felt as if their jobs were threatened by the app.
+
+[Satir Change Model](https://stevenmsmith.com/ar-satir-change-model/) Explanation by Steven Smith.
     
 
 ## Agile ##
@@ -72,7 +74,7 @@
 [Distributed Mob Timer](https://mobti.me/)
     
 
-## Team Work ##
+## Teamwork ##
 
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
 

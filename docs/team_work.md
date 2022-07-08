@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "Team Work"))
+    (title "Teamwork"))
 /bl-->
 
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)

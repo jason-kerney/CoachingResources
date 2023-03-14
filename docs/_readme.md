@@ -2,7 +2,6 @@
 (filemeta
     (title "Coaching Resources")
     (subtitle "A list of links I give to people"))
-
 (table-of-contents
     (section-main "./general.md")
     (section-main "./agile.md")

@@ -6,17 +6,18 @@
 ## Table Of Contents ##
 
 - [Section 1: General](#user-content-general)
-- [Section 2: Agile](#user-content-agile)
-- [Section 3: Multitasking Research](#user-content-multitasking-research)
-- [Section 4: Learning](#user-content-learning)
-- [Section 5: Leadership And Coaching](#user-content-leadership-and-coaching)
-- [Section 6: Facilitator Tools](#user-content-facilitator-tools)
-- [Section 7: Teamwork](#user-content-teamwork)
-- [Section 8: Process](#user-content-process)
-- [Section 9: TDD Research](#user-content-tdd-research)
-- [Section 10: Pair Programming Research](#user-content-pair-programming-research)
-- [Section 11: Technical](#user-content-technical)
-- [Section 12: Random Collection of Tools](#user-content-random-collection-of-tools)
+- [Section 2: Responsibility Process](#user-content-responsibility-process)
+- [Section 3: Agile](#user-content-agile)
+- [Section 4: Multitasking Research](#user-content-multitasking-research)
+- [Section 5: Learning](#user-content-learning)
+- [Section 6: Leadership And Coaching](#user-content-leadership-and-coaching)
+- [Section 7: Facilitator Tools](#user-content-facilitator-tools)
+- [Section 8: Teamwork](#user-content-teamwork)
+- [Section 9: Process](#user-content-process)
+- [Section 10: TDD Research](#user-content-tdd-research)
+- [Section 11: Pair Programming Research](#user-content-pair-programming-research)
+- [Section 12: Technical](#user-content-technical)
+- [Section 13: Random Collection of Tools](#user-content-random-collection-of-tools)
 
 ## General ##
 
@@ -29,6 +30,13 @@
 [Sunglass Selection App Development at Nordstrom](https://www.youtube.com/watch?v=2NFH3VC6LNs). This failed on launch because the sales force was not consulted. They felt as if their jobs were threatened by the app.
 
 [Satir Change Model](https://stevenmsmith.com/ar-satir-change-model/) Explanation by Steven Smith.
+    
+
+## Responsibility Process ##
+
+[Really Good Video](https://www.youtube.com/watch?v=urcezKRhpoY)
+
+[Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fleanintuit.com%2Fwp-content%2Fuploads%2F2016%2F12%2FThe-Responsibility-Process.jpg&f=1&nofb=1&ipt=9a1633c0e2d67432cea9b8065940db670b81bc2c473b8eb34ecc881b99ded488&ipo=images)
     
 
 ## Agile ##

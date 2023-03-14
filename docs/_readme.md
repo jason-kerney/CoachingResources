@@ -4,6 +4,7 @@
     (subtitle "A list of links I give to people"))
 (table-of-contents
     (section-main "./general.md")
+    (section-main "./responsibility.md")
     (section-main "./agile.md")
     (section-main "./multitasking-research.md")
     (section-main "./learning.md")

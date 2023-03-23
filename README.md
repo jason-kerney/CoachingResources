@@ -30,6 +30,8 @@
 [Sunglass Selection App Development at Nordstrom](https://www.youtube.com/watch?v=2NFH3VC6LNs). This failed on launch because the sales force was not consulted. They felt as if their jobs were threatened by the app.
 
 [Satir Change Model](https://stevenmsmith.com/ar-satir-change-model/) Explanation by Steven Smith.
+
+[Are you an Ideal Team Player](https://www.youtube.com/watch?v=PRh80RyT74I)
     
 
 ## Responsibility Process ##

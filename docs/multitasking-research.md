@@ -12,5 +12,3 @@
 [Laptop multitasking hinders classroom learning for both users and nearby peers](https://www.sciencedirect.com/science/article/pii/S0360131512002254)
 
 [Media Multitasking Is Associated with Symptoms of Depression and Social Anxiety](https://www.psychologytoday.com/us/blog/the-squeaky-wheel/201606/10-real-risks-multitasking-mind-and-body)
-
-[Does personal social media usage affect efficiency and well-being?](https://www.researchgate.net/publication/271225968_Does_personal_social_media_usage_affect_efficiency_and_well-being)

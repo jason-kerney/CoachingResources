@@ -61,8 +61,6 @@
 [Laptop multitasking hinders classroom learning for both users and nearby peers](https://www.sciencedirect.com/science/article/pii/S0360131512002254)
 
 [Media Multitasking Is Associated with Symptoms of Depression and Social Anxiety](https://www.psychologytoday.com/us/blog/the-squeaky-wheel/201606/10-real-risks-multitasking-mind-and-body)
-
-[Does personal social media usage affect efficiency and well-being?](https://www.researchgate.net/publication/271225968_Does_personal_social_media_usage_affect_efficiency_and_well-being)
     
 
 ## Learning ##
@@ -94,7 +92,8 @@
 
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
 
-[The 4 Team Toxins](https://www.leadbeyond.global/news/teams/the-four-team-toxins/)
+[The 4 Team Toxins](https://www.leadbeyondhttps://www.linkedin.com/pulse/20140506163412-9805-top-4-toxic-behaviors-in-teams-and-relationships-and-what-to-do-about-them/.global/news/teams/the-four-team-toxins/)
+
     
 
 ## Process ##
@@ -114,7 +113,7 @@
 
 [A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage](https://arxiv.org/ftp/arxiv/papers/1711/1711.05082.pdf)
 
-[How Effective is Test Driven Development](https://www.researchgate.net/profile/Burak_Turhan/publication/258126622_How_Effective_is_Test_Driven_Development/links/54e794320cf27a6de10a8afe/How-Effective-is-Test-Driven-Development.pdf)
+[How Effective is Test Driven Development](https://www.researchgate.net/publication/258126622_How_Effective_is_Test_Driven_Development)
 
 [TDD Dynamics: Understanding the Impact of Test-Driven Development on Software Quality and Productivity](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwilgtPBlYvnAhWLqZ4KHS66CE4QFjAAegQIBhAB&url=https%3A%2F%2Fdigital.library.ryerson.ca%2Fislandora%2Fobject%2FRULA%253A2150%2Fdatastream%2FOBJ%2Fdownload%2FTDD_Dynamics__Understanding_the_Impact_of_Test-Driven_Development_on_Software_Quality_and_Productivity.pdf&usg=AOvVaw20OD1tkR-HMrphV95aNjJw)
 

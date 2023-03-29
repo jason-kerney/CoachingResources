@@ -12,13 +12,18 @@
     "verboseMode": false,
     "aliases": [
         {
-            "name": "docs",
-            "command": "cls;booklisp ./docs/_readme.md ./README.md && gittey commit && git push",
+            "name": "push",
+            "command": "gittey build && gittey commit && git push",
             "description": "Builds the docs, commits and pushes"
         },
         {
             "name": "test",
-            "command": "cls;booklisp ./docs/_readme.md ./README.md",
+            "command": "powershell ./testLinks.ps1",
+            "description": "tests the links in the readme"
+        },
+        {
+            "name": "build",
+            "command": "cls; booklisp ./docs/_readme.md ./README.md && gittey test",
             "description": "Builds the docs for comparison"
         }
     ],

@@ -1,7 +1,7 @@
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Coaching Resources #
-#### A list of links I give to people ####
+#### A list of links I give to people<br><br>![Link Checks](https://github.com/jason-kerney/CoachingResources/actions/workflows/validateUrls.yml/badge.svg) ####
 
 ## Table Of Contents ##
 
@@ -143,6 +143,7 @@
 
 [A curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
     
+
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->
     

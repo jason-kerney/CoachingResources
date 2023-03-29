@@ -1,7 +1,7 @@
 <!--bl
 (filemeta
     (title "Coaching Resources")
-    (subtitle "A list of links I give to people"))
+    (subtitle "A list of links I give to people<br><br>![Link Checks](https://github.com/jason-kerney/CoachingResources/actions/workflows/validateUrls.yml/badge.svg)"))
 (table-of-contents
     (section-main "./general.md")
     (section-main "./responsibility.md")

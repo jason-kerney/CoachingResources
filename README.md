@@ -17,7 +17,6 @@
 - [Section 10: TDD Research](#user-content-tdd-research)
 - [Section 11: Pair Programming Research](#user-content-pair-programming-research)
 - [Section 12: Technical](#user-content-technical)
-- [Section 13: Random Collection of Tools](#user-content-random-collection-of-tools)
 
 ## General ##
 
@@ -38,7 +37,7 @@
 
 [Book (Amazon)](https://a.co/d/9k6FqhC)
 
-[Really Good Video](https://www.youtube.com/watch?v=urcezKRhpoY)
+[The Responsibility Process](https://www.youtube.com/watch?v=urcezKRhpoY)
 
 [Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fleanintuit.com%2Fwp-content%2Fuploads%2F2016%2F12%2FThe-Responsibility-Process.jpg&f=1&nofb=1&ipt=9a1633c0e2d67432cea9b8065940db670b81bc2c473b8eb34ecc881b99ded488&ipo=images)
     
@@ -75,8 +74,6 @@
 [Ada Initiative Meeting Roles](https://files.adainitiative.org/unconference%20role%20cards/role_cards.pdf)
 
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
-
-[The Responsibility Process](https://www.youtube.com/watch?v=urcezKRhpoY)
     
 
 ## Facilitator Tools ##
@@ -92,7 +89,7 @@
 
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
 
-[The 4 Team Toxins](https://www.leadbeyondhttps://www.linkedin.com/pulse/20140506163412-9805-top-4-toxic-behaviors-in-teams-and-relationships-and-what-to-do-about-them/.global/news/teams/the-four-team-toxins/)
+[The 4 Team Toxins](https://www.linkedin.com/pulse/20140506163412-9805-top-4-toxic-behaviors-in-teams-and-relationships-and-what-to-do-about-them/)
 
     
 
@@ -145,11 +142,6 @@
 [Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)
 
 [A curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
-    
-
-## Random Collection of Tools ##
-
-[List Randomizer](https://www.random.org/lists/)
     
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->

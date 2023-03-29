@@ -15,6 +15,5 @@
     (section-main "./tdd-research.md")
     (section-main "./pairprogramming-research.md")
     (section-main "./technical.md")
-    (section-main "./randomTools.md")
 )
 /bl-->

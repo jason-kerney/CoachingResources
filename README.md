@@ -86,6 +86,10 @@
 
 [Ada Initiative Meeting Roles Card](https://files.adainitiative.org/wiki_binaries/role_cards.pdf)
 
+[My Version of the Ada Initiative Role Cards (pdf)](./artifacts/MeetingRoleCards.pdf)
+
+[My Version of the Ada Initiative Role Cards (Power Point)](./artifacts/MeetingRoleCards.pptx)
+
     
 
 ## Teamwork ##

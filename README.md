@@ -31,6 +31,8 @@
 [Satir Change Model](https://stevenmsmith.com/ar-satir-change-model/) Explanation by Steven Smith.
 
 [Are you an Ideal Team Player](https://www.youtube.com/watch?v=PRh80RyT74I)
+
+[Yog's Law](https://www.chrisstead.net/power-dynamics/yogs-law/workplace-safety/2021/07/16/yogs-law-power-responsibility-and-accountability.html)
     
 
 ## Responsibility Process ##

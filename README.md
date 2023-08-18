@@ -33,6 +33,8 @@
 [Are you an Ideal Team Player](https://www.youtube.com/watch?v=PRh80RyT74I)
 
 [Yog's Law](https://www.chrisstead.net/power-dynamics/yogs-law/workplace-safety/2021/07/16/yogs-law-power-responsibility-and-accountability.html)
+
+[Creative Genius (TED)](https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius)
     
 
 ## Responsibility Process ##

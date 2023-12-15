@@ -146,7 +146,7 @@
 
 [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/)
 
-[The Worst Programming Language Ever](https://skillsmatter.com/skillscasts/6088-the-worst-programming-language-ever)
+[The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U)
 
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
 

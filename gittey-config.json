@@ -22,6 +22,11 @@
             "description": "tests the links in the readme"
         },
         {
+            "name": "start",
+            "command": "gittey build && code .",
+            "description": "Builds all docs and launchs vscode"
+        },
+        {
             "name": "build",
             "command": "cls; booklisp ./docs/_readme.md ./README.md && gittey test",
             "description": "Builds the docs for comparison"

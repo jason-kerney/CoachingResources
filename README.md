@@ -93,6 +93,7 @@
 
 [My Version of the Ada Initiative Role Cards (Power Point)](./artifacts/MeetingRoleCards.pptx)
 
+[Mobprogramming RPG](https://github.com/willemlarsen/mobprogrammingrpg)
     
 
 ## Teamwork ##
@@ -114,6 +115,8 @@
 [Optimizing for the Developer: Mindful Intentionality](http://www.chrisstead.net/developer-practice/work-optimization/2020/10/08/optimizing-for-the-developer-mindful-intentionality.html)
 
 [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
+
+[Blue Flow Book by Donald G. Reinertsen](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
     
 
 ## TDD Research ##

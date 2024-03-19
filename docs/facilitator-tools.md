@@ -14,3 +14,5 @@
 [My Version of the Ada Initiative Role Cards (pdf)](./artifacts/MeetingRoleCards.pdf)
 
 [My Version of the Ada Initiative Role Cards (Power Point)](./artifacts/MeetingRoleCards.pptx)
+
+[Mobprogramming RPG](https://github.com/willemlarsen/mobprogrammingrpg)

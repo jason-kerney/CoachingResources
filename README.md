@@ -130,6 +130,10 @@
 [The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis](https://www.semanticscholar.org/paper/The-Effects-of-Test-Driven-Development-on-External-Rafique-Misic/7a0b5586669a4ba9c0ac5b2fe59f58c4e8330f58)
 
 [Realizing quality improvement through test driven development: results and experiences of four industrial teams](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Realizing-Quality-Improvement-Through-Test-Driven-Development-Results-and-Experiences-of-Four-Industrial-Teams-nagappan_tdd.pdf)
+
+### Research on the Benefits of Automated Testing ###
+
+[The Impacts of Test Automation on Software's Cost, Quality and Time to Market](https://www.sciencedirect.com/science/article/pii/S1877050916001277)
     
 
 ## Pair Programming Research ##

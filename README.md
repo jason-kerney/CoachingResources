@@ -100,7 +100,7 @@
 
 [The 4 Team Toxins/Horsemen (Gottman)](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
 
-[The 4 Team Antidotes (Gottman)][https://www.gottman.com/blog/the-four-horsemen-the-antidotes/]
+[The 4 Team Antidotes (Gottman)](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
 
     
 

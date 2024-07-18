@@ -161,6 +161,8 @@
 [Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)
 
 [A curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
+
+[Threat Modeling For The Developer by Martin Fowler](https://martinfowler.com/articles/agile-threat-modelling.html)
     
 
 ## Useful Quotes ##

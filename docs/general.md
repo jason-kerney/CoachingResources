@@ -18,3 +18,5 @@
 [Yog's Law](https://www.chrisstead.net/power-dynamics/yogs-law/workplace-safety/2021/07/16/yogs-law-power-responsibility-and-accountability.html)
 
 [Creative Genius (TED)](https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius)
+
+[9 Lies about Work Survey](https://catalystgrowthadvisors.com/2019/06/25/nine-lies-about-work-8-question-team-engagement-assessment/)

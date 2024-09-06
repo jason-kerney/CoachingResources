@@ -18,3 +18,5 @@
 [A curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
 
 [Threat Modeling For The Developer by Martin Fowler](https://martinfowler.com/articles/agile-threat-modelling.html)
+
+[Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)

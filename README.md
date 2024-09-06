@@ -96,6 +96,8 @@
 [My Version of the Ada Initiative Role Cards (Power Point)](./artifacts/MeetingRoleCards.pptx)
 
 [Mobprogramming RPG](https://github.com/willemlarsen/mobprogrammingrpg)
+
+[Random Team Generator](https://www.gigacalculator.com/randomizers/random-team-generator.php)
     
 
 ## Teamwork ##

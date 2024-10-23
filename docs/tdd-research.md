@@ -15,6 +15,6 @@
 
 [Realizing quality improvement through test driven development: results and experiences of four industrial teams](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Realizing-Quality-Improvement-Through-Test-Driven-Development-Results-and-Experiences-of-Four-Industrial-Teams-nagappan_tdd.pdf)
 
-### Research on the Benefits of Automated Testing ###
+<!-- (dl (# Research on the Benefits of Automated Testing)) -->
 
 [The Impacts of Test Automation on Software's Cost, Quality and Time to Market](https://www.sciencedirect.com/science/article/pii/S1877050916001277)

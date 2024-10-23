@@ -2,6 +2,8 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
+<!-- Compiled with doculisp (version 2.0.4) https://www.npmjs.com/package/doculisp -->
+
 # Coaching Resources #
 
 ### A list of links I give to people<br><br>![Link Checks](https://github.com/jason-kerney/CoachingResources/actions/workflows/validateUrls.yml/badge.svg) ###

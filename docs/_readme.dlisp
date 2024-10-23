@@ -1,0 +1,22 @@
+(section-meta
+    (title Coaching Resources)
+    (subtitle A list of links I give to people<br><br>![Link Checks]\(https://github.com/jason-kerney/CoachingResources/actions/workflows/validateUrls.yml/badge.svg\))
+    (include
+        (Section ./general.md)
+        (Section ./responsibility.md)
+        (Section ./agile.md)
+        (Section ./multitasking-research.md)
+        (Section ./learning.md)
+        (Section ./leadership.md)
+        (Section ./facilitator-tools.md)
+        (Section ./team_work.md)
+        (Section ./process.md)
+        (Section ./tdd-research.md)
+        (Section ./pairprogramming-research.md)    
+        (Section ./technical.md)
+        (Section ./quotes.md)
+    )
+)
+
+(# Table of Contents)
+(content (toc numbered-labeled))

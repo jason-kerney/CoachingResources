@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "TDD Research"))
-/bl-->
+<!--(dl
+(section-meta
+    (title TDD Research))
+)-->
 
 [An Initial Investigation of Test Driven Development in Industry](https://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf)
 

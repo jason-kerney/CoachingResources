@@ -1,0 +1,25 @@
+{
+  "name": "coachingresources",
+  "version": "1.0.0",
+  "description": "a collection of links I share",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-kerney/CoachingResources.git"
+  },
+  "author": "jason-kerney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jason-kerney/CoachingResources/issues"
+  },
+  "homepage": "https://github.com/jason-kerney/CoachingResources#readme",
+  "devDependencies": {
+    "doculisp": "^2.0.2"
+  }
+}

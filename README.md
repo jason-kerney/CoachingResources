@@ -1,23 +1,26 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Coaching Resources #
-#### A list of links I give to people<br><br>![Link Checks](https://github.com/jason-kerney/CoachingResources/actions/workflows/validateUrls.yml/badge.svg) ####
 
-## Table Of Contents ##
+### A list of links I give to people<br><br>![Link Checks](https://github.com/jason-kerney/CoachingResources/actions/workflows/validateUrls.yml/badge.svg) ###
 
-- [Section 1: General](#user-content-general)
-- [Section 2: Responsibility Process](#user-content-responsibility-process)
-- [Section 3: Agile](#user-content-agile)
-- [Section 4: Multitasking Research](#user-content-multitasking-research)
-- [Section 5: Learning](#user-content-learning)
-- [Section 6: Leadership And Coaching](#user-content-leadership-and-coaching)
-- [Section 7: Facilitator Tools](#user-content-facilitator-tools)
-- [Section 8: Teamwork](#user-content-teamwork)
-- [Section 9: Process](#user-content-process)
-- [Section 10: TDD Research](#user-content-tdd-research)
-- [Section 11: Pair Programming Research](#user-content-pair-programming-research)
-- [Section 12: Technical](#user-content-technical)
-- [Section 13: Useful Quotes](#user-content-useful-quotes)
+## Table of Contents ##
+
+1. [Section: General](#general)
+2. [Section: Responsibility Process](#responsibility-process)
+3. [Section: Agile](#agile)
+4. [Section: Multitasking Research](#multitasking-research)
+5. [Section: Learning](#learning)
+6. [Section: Leadership And Coaching](#leadership-and-coaching)
+7. [Section: Facilitator Tools](#facilitator-tools)
+8. [Section: Teamwork](#teamwork)
+9. [Section: Process](#process)
+10. [Section: TDD Research](#tdd-research)
+11. [Section: Pair Programming Research](#pair-programming-research)
+12. [Section: Technical](#technical)
+13. [Section: Useful Quotes](#useful-quotes)
 
 ## General ##
 
@@ -40,7 +43,6 @@
 [9 Lies about Work Survey](https://catalystgrowthadvisors.com/2019/06/25/nine-lies-about-work-8-question-team-engagement-assessment/)
 
 [Financial Literacy and Why I Avoid the term Debt](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf)
-    
 
 ## Responsibility Process ##
 
@@ -49,14 +51,12 @@
 [The Responsibility Process](https://www.youtube.com/watch?v=urcezKRhpoY)
 
 [Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fleanintuit.com%2Fwp-content%2Fuploads%2F2016%2F12%2FThe-Responsibility-Process.jpg&f=1&nofb=1&ipt=9a1633c0e2d67432cea9b8065940db670b81bc2c473b8eb34ecc881b99ded488&ipo=images)
-    
 
 ## Agile ##
 
 [Modern Agile](https://www.youtube.com/watch?v=0PMYKxTkdU0)
 
 [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
-    
 
 ## Multitasking Research ##
 
@@ -69,17 +69,14 @@
 [Laptop multitasking hinders classroom learning for both users and nearby peers](https://www.sciencedirect.com/science/article/pii/S0360131512002254)
 
 [Media Multitasking Is Associated with Symptoms of Depression and Social Anxiety](https://www.psychologytoday.com/us/blog/the-squeaky-wheel/201606/10-real-risks-multitasking-mind-and-body)
-    
 
 ## Learning ##
 
 [Veritosium Kahn Video](https://www.youtube.com/watch?v=eVtCO84MDj8)
-    
 
 ## Leadership And Coaching ##
 
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
-    
 
 ## Facilitator Tools ##
 
@@ -98,7 +95,6 @@
 [Mobprogramming RPG](https://github.com/willemlarsen/mobprogrammingrpg)
 
 [Random Team Generator](https://www.gigacalculator.com/randomizers/random-team-generator.php)
-    
 
 ## Teamwork ##
 
@@ -107,8 +103,6 @@
 [The 4 Team Toxins/Horsemen (Gottman)](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
 
 [The 4 Team Antidotes (Gottman)](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
-
-    
 
 ## Process ##
 
@@ -123,7 +117,6 @@
 [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
 
 [Blue Flow Book by Donald G. Reinertsen](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
-    
 
 ## TDD Research ##
 
@@ -142,15 +135,14 @@
 ### Research on the Benefits of Automated Testing ###
 
 [The Impacts of Test Automation on Software's Cost, Quality and Time to Market](https://www.sciencedirect.com/science/article/pii/S1877050916001277)
-    
 
 ## Pair Programming Research ##
+
 [The Costs and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 
 [The Effects of Pair-Programming on Performance in an Introductory Programming Course](https://courses.cs.washington.edu/courses/cse590e/02sp/pairprogramming.pdf)
 
 [Strengthening the Case for Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF)
-    
 
 ## Technical ##
 
@@ -171,14 +163,12 @@
 [Threat Modeling For The Developer by Martin Fowler](https://martinfowler.com/articles/agile-threat-modelling.html)
 
 [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
-    
 
 ## Useful Quotes ##
 
-> The object isn't to make art, it's to be in that wonderful state which makes art inevitable."
+> The object isn't to make art, it's to be in that wonderful state which makes art inevitable.
 > -- Robert Henri from [The Art Spirit](https://a.co/d/34uITKk)
-    
 
-
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Teamwork"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Teamwork))
+)-->
 
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
 

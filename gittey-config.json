@@ -28,7 +28,7 @@
         },
         {
             "name": "build",
-            "command": "cls; booklisp ./docs/_readme.md ./README.md && gittey test",
+            "command": "cls; node ./node_modules/doculisp/dist/index.js ./docs/_readme.dlisp ./README.md",
             "description": "Builds the docs for comparison"
         }
     ],

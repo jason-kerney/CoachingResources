@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Agile"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Agile))
+)-->
 
 [Modern Agile](https://www.youtube.com/watch?v=0PMYKxTkdU0)
 

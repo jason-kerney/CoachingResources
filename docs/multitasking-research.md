@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Multitasking Research"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Multitasking Research))
+)-->
 
 [Higher Media Multi-Tasking Activity Is Associated with Smaller Gray-Matter Density in the Anterior Cingulate Cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174517/)
 

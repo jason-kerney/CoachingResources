@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "General"))
-/bl-->
+<!--(dl
+(section-meta
+    (title General))
+)-->
 
 [Organizational Colors](https://www.workplacepeaceinstitute.com/post/reimagining-the-workplace-organizational-paradigms)
 

@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Technical"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Technical))
+)-->
 
 [What Makes A Good Test Suite](https://arlobelshee.com/what-makes-a-good-test-suite/llewellyn-falco/)
 

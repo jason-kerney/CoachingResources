@@ -17,6 +17,11 @@
             "description": "Builds the docs, commits and pushes"
         },
         {
+            "name": "save",
+            "command": "gittey push",
+            "description": "Builds the docs, commits and pushes"
+        },
+        {
             "name": "test",
             "command": "powershell ./testLinks.ps1",
             "description": "tests the links in the readme"

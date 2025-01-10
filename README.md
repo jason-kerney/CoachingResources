@@ -2,7 +2,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<!-- Compiled with doculisp (version 2.0.5) https://www.npmjs.com/package/doculisp -->
+<!-- Compiled with doculisp https://www.npmjs.com/package/doculisp -->
 
 # Coaching Resources #
 
@@ -10,19 +10,19 @@
 
 ## Table of Contents ##
 
-1. [Section: General](#general)
-2. [Section: Responsibility Process](#responsibility-process)
-3. [Section: Agile](#agile)
-4. [Section: Multitasking Research](#multitasking-research)
-5. [Section: Learning](#learning)
-6. [Section: Leadership And Coaching](#leadership-and-coaching)
-7. [Section: Facilitator Tools](#facilitator-tools)
-8. [Section: Teamwork](#teamwork)
-9. [Section: Process](#process)
-10. [Section: TDD Research](#tdd-research)
-11. [Section: Pair Programming Research](#pair-programming-research)
-12. [Section: Technical](#technical)
-13. [Section: Useful Quotes](#useful-quotes)
+1. Section: [General](#general)
+2. Section: [Responsibility Process](#responsibility-process)
+3. Section: [Agile](#agile)
+4. Section: [Multitasking Research](#multitasking-research)
+5. Section: [Learning](#learning)
+6. Section: [Leadership And Coaching](#leadership-and-coaching)
+7. Section: [Facilitator Tools](#facilitator-tools)
+8. Section: [Teamwork](#teamwork)
+9. Section: [Process](#process)
+10. Section: [TDD Research](#tdd-research)
+11. Section: [Pair Programming Research](#pair-programming-research)
+12. Section: [Technical](#technical)
+13. Section: [Useful Quotes](#useful-quotes)
 
 ## General ##
 

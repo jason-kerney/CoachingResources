@@ -48,6 +48,8 @@
 
 [Financial Literacy and Why I Avoid the term Debt](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf)
 
+[Evolution of Trust / Cooperation Game](https://ncase.me/trust/)
+
 ## Responsibility Process ##
 
 [Book (Amazon)](https://a.co/d/9k6FqhC)

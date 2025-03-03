@@ -47,6 +47,7 @@
 [9 Lies about Work Survey](https://catalystgrowthadvisors.com/2019/06/25/nine-lies-about-work-8-question-team-engagement-assessment/)
 
 [Financial Literacy and Why I Avoid the term Debt](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf)
+
 [Financial Literacy Questions](https://www.rainingpennies.com/investments/financial-literacy-test-quiz/)
 
 [Evolution of Trust / Cooperation Game](https://ncase.me/trust/)

@@ -22,3 +22,5 @@
 [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
 
 [SOLID Explanation](https://okso.app/showcase/solid)
+
+[Cron JOB Scheduling](https://crontab.cronhub.io/)

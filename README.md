@@ -174,6 +174,8 @@
 
 [SOLID Explanation](https://okso.app/showcase/solid)
 
+[Cron JOB Scheduling](https://crontab.cronhub.io/)
+
 ## Useful Quotes ##
 
 > The object isn't to make art, it's to be in that wonderful state which makes art inevitable.

@@ -172,6 +172,8 @@
 
 [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
 
+[SOLID Explanation](https://okso.app/showcase/solid)
+
 ## Useful Quotes ##
 
 > The object isn't to make art, it's to be in that wonderful state which makes art inevitable.

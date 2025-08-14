@@ -94,8 +94,6 @@
 
 [Distributed Mob Timer](https://mobti.me/)
 
-[Ada Initiative Meeting Roles Card](https://files.adainitiative.org/wiki_binaries/role_cards.pdf)
-
 [My Version of the Ada Initiative Role Cards (pdf)](./artifacts/MeetingRoleCards.pdf)
 
 [My Version of the Ada Initiative Role Cards (Power Point)](./artifacts/MeetingRoleCards.pptx)
@@ -128,7 +126,7 @@
 
 ## TDD Research ##
 
-[An Initial Investigation of Test Driven Development in Industry](https://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf)
+[https://dl.acm.org/doi/abs/10.1145/952532.952753](https://www.learn-cocos2d.com/laurie/Papers/TDDpaperv8.pdf)
 
 [A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage](https://arxiv.org/ftp/arxiv/papers/1711/1711.05082.pdf)
 
@@ -146,11 +144,11 @@
 
 ## Pair Programming Research ##
 
-[The Costs and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
+[The Costs and Benefits of Pair Programming](https://web.eecs.umich.edu/~weimerw/2024-481F/readings/pairprogramming.pdf)
 
 [The Effects of Pair-Programming on Performance in an Introductory Programming Course](https://courses.cs.washington.edu/courses/cse590e/02sp/pairprogramming.pdf)
 
-[Strengthening the Case for Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF)
+[Strengthening the Case for Pair Programming](http://swiki.cs.colorado.edu/dlc-2004/uploads/154/ieeeSoftware.pdf)
 
 ## Technical ##
 

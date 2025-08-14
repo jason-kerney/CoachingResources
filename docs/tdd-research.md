@@ -3,7 +3,7 @@
     (title TDD Research))
 )-->
 
-[An Initial Investigation of Test Driven Development in Industry](https://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf)
+[https://dl.acm.org/doi/abs/10.1145/952532.952753](https://www.learn-cocos2d.com/laurie/Papers/TDDpaperv8.pdf)
 
 [A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage](https://arxiv.org/ftp/arxiv/papers/1711/1711.05082.pdf)
 

@@ -13,4 +13,4 @@
 
 [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
 
-[Blue Flow Book by Donald G. Reinertsen](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
+[Blue Flow Book by Donald G. Reinertsen](https://a.co/d/jcWW059)

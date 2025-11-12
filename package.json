@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/jason-kerney/CoachingResources#readme",
   "devDependencies": {
-    "doculisp": "^3.3.0"
+    "doculisp": "^5.0.0"
   }
 }

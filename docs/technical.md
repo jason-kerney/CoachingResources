@@ -3,7 +3,7 @@
     (title Technical))
 )-->
 
-[What Makes A Good Test Suite](https://arlobelshee.com/what-makes-a-good-test-suite/llewellyn-falco/)
+[What Makes A Good Test Suite](https://llewellynfalco.blogspot.com/2021/04/the-4-benefits-of-tests.html)
 
 [Learn Git Branching](https://learngitbranching.js.org/)
 

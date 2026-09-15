@@ -128,7 +128,7 @@
 
 [https://dl.acm.org/doi/abs/10.1145/952532.952753](https://www.learn-cocos2d.com/laurie/Papers/TDDpaperv8.pdf)
 
-[A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage](https://arxiv.org/ftp/arxiv/papers/1711/1711.05082.pdf)
+[A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage](https://ieeexplore.ieee.org/abstract/document/4343755)
 
 [How Effective is Test Driven Development](https://www.researchgate.net/publication/258126622_How_Effective_is_Test_Driven_Development)
 
@@ -154,7 +154,7 @@
 
 ## Technical ##
 
-[What Makes A Good Test Suite](https://arlobelshee.com/what-makes-a-good-test-suite/llewellyn-falco/)
+[What Makes A Good Test Suite](https://llewellynfalco.blogspot.com/2021/04/the-4-benefits-of-tests.html)
 
 [Learn Git Branching](https://learngitbranching.js.org/)
 

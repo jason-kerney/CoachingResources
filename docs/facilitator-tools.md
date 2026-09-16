@@ -16,3 +16,5 @@
 [Mobprogramming RPG](https://github.com/willemlarsen/mobprogrammingrpg)
 
 [Random Team Generator](https://www.gigacalculator.com/randomizers/random-team-generator.php)
+
+[Liberating Structures](https://www.liberatingstructures.com/)

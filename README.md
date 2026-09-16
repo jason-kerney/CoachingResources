@@ -102,6 +102,8 @@
 
 [Random Team Generator](https://www.gigacalculator.com/randomizers/random-team-generator.php)
 
+[Liberating Structures](https://www.liberatingstructures.com/)
+
 ## Teamwork ##
 
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)

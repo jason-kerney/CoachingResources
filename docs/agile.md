@@ -3,6 +3,8 @@
     (title Agile))
 )-->
 
+Resources on Agile principles, software craftsmanship, and continuous product discovery.
+
 [Modern Agile](https://www.youtube.com/watch?v=0PMYKxTkdU0)
 
 Four guiding principles for creating value, learning quickly, and making work safer for everyone.

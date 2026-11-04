@@ -9,6 +9,8 @@
 
 [Cognitive Bias Index](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg?ref=insanelyusefulwebsites)
 
+[Predictably Irrational: The Hidden Forces That Shape Our Decisions (Revised and Expanded Edition, Book)](https://a.co/d/05LdGzs1)
+
 [Sunglass Selection App Development at Nordstrom](https://www.youtube.com/watch?v=2NFH3VC6LNs). This failed on launch because the sales force was not consulted. They felt as if their jobs were threatened by the app.
 
 [Satir Change Model](https://stevenmsmith.com/ar-satir-change-model/) Explanation by Steven Smith.
@@ -28,3 +30,5 @@
 [Financial Literacy Questions](https://www.rainingpennies.com/investments/financial-literacy-test-quiz/)
 
 [Evolution of Trust / Cooperation Game](https://ncase.me/trust/)
+
+[When Helping Hurts: How to Alleviate Poverty Without Hurting the Poor . . . and Yourself (Book)](https://a.co/d/09prfXLA)

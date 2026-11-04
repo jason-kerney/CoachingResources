@@ -32,6 +32,8 @@
 
 [Cognitive Bias Index](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg?ref=insanelyusefulwebsites)
 
+[Predictably Irrational: The Hidden Forces That Shape Our Decisions (Revised and Expanded Edition, Book)](https://a.co/d/05LdGzs1)
+
 [Sunglass Selection App Development at Nordstrom](https://www.youtube.com/watch?v=2NFH3VC6LNs). This failed on launch because the sales force was not consulted. They felt as if their jobs were threatened by the app.
 
 [Satir Change Model](https://stevenmsmith.com/ar-satir-change-model/) Explanation by Steven Smith.
@@ -52,6 +54,8 @@
 
 [Evolution of Trust / Cooperation Game](https://ncase.me/trust/)
 
+[When Helping Hurts: How to Alleviate Poverty Without Hurting the Poor . . . and Yourself (Book)](https://a.co/d/09prfXLA)
+
 ## Responsibility Process ##
 
 [Book (Amazon)](https://a.co/d/9k6FqhC)
@@ -65,6 +69,8 @@
 [Modern Agile](https://www.youtube.com/watch?v=0PMYKxTkdU0)
 
 [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+
+[Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Book)](https://a.co/d/03pFgohI)
 
 ## Multitasking Research ##
 
@@ -82,9 +88,47 @@
 
 [Veritosium Kahn Video](https://www.youtube.com/watch?v=eVtCO84MDj8)
 
+[The Fifth Discipline (Book)](https://a.co/d/00HXDema)
+
+[Systemantics: The Systems Bible (Book)](https://a.co/d/033aUBtV)
+
+[Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying; A Guide for Kids and Teens (Book)](https://a.co/d/0cEsR6jF)
+
 ## Leadership And Coaching ##
 
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
+
+[Your First Leadership Job (Book)](https://a.co/d/0btmdys5)
+
+[Turn the Ship Around (Book)](https://a.co/d/0bHb6dX0)
+
+[Nine Lies About Work (Book)](https://a.co/d/08nibliJ)
+
+[Leadership and Self-Deception (Book)](https://a.co/d/0cEMhugV)
+
+[Secrets to Winning at Office Politics (Book)](https://a.co/d/04mxVaqm)
+
+[Drive: The Surprising Truth About What Motivates Us (Book)](https://a.co/d/03lq9c31)
+
+[What Got You Here Won't Get You There (Book)](https://a.co/d/0g2E6Ckq)
+
+[The 7 Habits of Highly Effective People (30th Anniversary Edition, Book)](https://a.co/d/01jYlA0R)
+
+[7 Rules for Positive, Productive Change: Micro Shifts, Macro Results (Book)](https://a.co/d/065MH9Lo)
+
+[Switch: How to Change Things When Change Is Hard (Book)](https://a.co/d/0gy9jNX3)
+
+[The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People's Lives Better, Too) (Book)](https://a.co/d/0hBGVZLq)
+
+[Emotional Intelligence 2.0 (Book)](https://a.co/d/0erdLy0V)
+
+[Made to Stick: Why Some Ideas Survive and Others Die (Book)](https://a.co/d/0cPJ9S3m)
+
+[The Coaching Habit: Say Less, Ask More, and Change the Way You Lead Forever (Book)](https://a.co/d/03opiP22)
+
+[Joy, Inc.: How We Built a Workplace People Love (Book)](https://a.co/d/0cx1xUMb)
+
+[The Power of Habit: Why We Do What We Do in Life and Business (Book)](https://a.co/d/03tekNMm)
 
 ## Facilitator Tools ##
 
@@ -112,11 +156,21 @@
 
 [The 4 Team Antidotes (Gottman)](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
 
+[Crucial Conversations (Book)](https://a.co/d/0gwikSbo)
+
+[The Anatomy of Peace: Resolving the Heart of Conflict (5th Edition, Book)](https://a.co/d/02RAbqzV)
+
+[The Five Dysfunctions of a Team (Book)](https://a.co/d/0hmWXcgy)
+
+[The Ideal Team Player (Book)](https://a.co/d/0gbaZvpi)
+
 ## Process ##
 
 [Improving The Stand-Up](https://improvingflow.com/2021/05/17/improving-standup.html)
 
 [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
+
+[ReWork (Book)](https://a.co/d/09WiPzTw)
 
 [Slack Simulator](https://setosa.io/blog/2014/09/02/gridlock/)
 
@@ -124,7 +178,13 @@
 
 [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
 
+[The New Economics for Industry, Government, Education (Book, 3rd ed.)](https://a.co/d/0bRTmWcB)
+
 [Blue Flow Book by Donald G. Reinertsen](https://a.co/d/jcWW059)
+
+[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win (Book)](https://a.co/d/01HDNqsm)
+
+[NoEstimates: How To Measure Project Progress Without Estimating (Book)](https://a.co/d/0bDec3km)
 
 ## TDD Research ##
 

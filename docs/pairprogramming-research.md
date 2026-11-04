@@ -2,7 +2,7 @@
 (section-meta
     (title Pair Programming Research))
 )-->
-[The Costs and Benefits of Pair Programming](https://web.eecs.umich.edu/~weimerw/2024-481F/readings/pairprogramming.pdf)
+[The Costs and Benefits of Pair Programming](https://web.eecs.umich.edu/~weimerw/2026-481W/readings/pairprogramming.pdf)
 
 [The Effects of Pair-Programming on Performance in an Introductory Programming Course](https://courses.cs.washington.edu/courses/cse590e/02sp/pairprogramming.pdf)
 

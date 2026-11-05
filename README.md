@@ -21,7 +21,7 @@
 9. Section: [Process](#process)
 10. Section: [TDD Research](#tdd-research)
 11. Section: [Pair Programming Research](#pair-programming-research)
-12. Section: [Programming](#programming)
+12. Section: [Software Development](#software-development)
 13. Section: [Useful Quotes](#useful-quotes)
 
 ## General ##
@@ -430,7 +430,7 @@ Presents experimental evidence on pair programming's effects on development time
 
 Reviews mixed TDD research and uses meta-analysis and simulation to explore factors that may affect quality and productivity outcomes.
 
-## Programming ##
+## Software Development ##
 
 Resources on testing, version control, naming, software design, security, and developer tools.
 

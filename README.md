@@ -134,6 +134,8 @@ A practical guide to ongoing customer research and testing product ideas through
 
 Research on the cognitive, classroom, and well-being effects associated with media multitasking.
 
+### Cognitive Effects ###
+
 [Higher Media Multi-Tasking Activity Is Associated with Smaller Gray-Matter Density in the Anterior Cingulate Cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174517/)
 
 Reports an association between heavier media multitasking and smaller gray-matter density in the anterior cingulate cortex; it cannot establish cause and effect.
@@ -145,6 +147,8 @@ Reports an association between heavier media multitasking and weaker working- an
 [Media multitasking is associated with distractibility and increased prefrontal activity in adolescents and young adults](https://www.sciencedirect.com/science/article/abs/pii/S1053811916300441)
 
 Links media multitasking with distractibility and increased prefrontal activity in adolescents and young adults.
+
+### Classroom and Well-Being Effects ###
 
 [Laptop multitasking hinders classroom learning for both users and nearby peers](https://www.sciencedirect.com/science/article/pii/S0360131512002254)
 

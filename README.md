@@ -10,7 +10,7 @@
 
 ## Table of Contents ##
 
-1. Section: [General](#general)
+1. Section: [People, Work, and Society](#people-work-and-society)
 2. Section: [Responsibility Process](#responsibility-process)
 3. Section: [Agile](#agile)
 4. Section: [Multitasking Research](#multitasking-research)
@@ -20,21 +20,41 @@
 8. Section: [Teamwork](#teamwork)
 9. Section: [Process](#process)
 10. Section: [TDD Research](#tdd-research)
-11. Section: [Pair Programming Research](#pair-programming-research)
-12. Section: [Programming](#programming)
+11. Section: [XP Research](#xp-research)
+12. Section: [Software Development](#software-development)
 13. Section: [Useful Quotes](#useful-quotes)
 
-## General ##
+## People, Work, and Society ##
 
 A broad collection on organizational culture, decision-making, personal growth, cooperation, and financial literacy.
+
+### Organizations and Work ###
 
 [Organizational Colors](https://www.workplacepeaceinstitute.com/post/reimagining-the-workplace-organizational-paradigms)
 
 Explores how organizational paradigms shape workplace culture and how leadership approaches change.
 
+[Yog's Law](https://chrisstead.net/power-dynamics/yogs-law/workplace-safety/2021/07/16/yog-s-law-power-responsibility-and-accountability)
+
+Argues that power should flow toward workers while managers retain responsibility and share accountability.
+
+[Sunglass Selection App Development at Nordstrom](https://www.youtube.com/watch?v=2NFH3VC6LNs)
+
+Context beyond the video: the app failed at launch because sales staff were not consulted and feared it threatened their jobs.
+
 [Agile Resource Trello](https://trello.com/b/1lfMkCOh/software-profession-resources)
 
 A curated board of resources for software professionals and Agile practitioners.
+
+[9 Lies about Work Survey](https://catalystgrowthadvisors.com/2019/06/25/nine-lies-about-work-8-question-team-engagement-assessment/)
+
+An eight-question team-engagement survey covering both the individual and shared experience of work.
+
+[Are you an Ideal Team Player](https://www.youtube.com/watch?v=PRh80RyT74I)
+
+A short introduction to the three traits Lencioni associates with ideal teammates: humility, hunger, and people smarts.
+
+### Decision-Making and Change ###
 
 [Cognitive Bias Index](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg?ref=insanelyusefulwebsites)
 
@@ -44,41 +64,21 @@ An illustrated index of cognitive biases, organized as a visual codex.
 
 Explores how context and cognitive biases can lead people to make predictably irrational decisions.
 
-[Sunglass Selection App Development at Nordstrom](https://www.youtube.com/watch?v=2NFH3VC6LNs)
-
-Context beyond the video: the app failed at launch because sales staff were not consulted and feared it threatened their jobs.
-
 [Satir Change Model](https://stevenmsmith.com/ar-satir-change-model/)
 
 Explains a five-stage model of how people and groups experience change, from the status quo to a new one.
 
-[Are you an Ideal Team Player](https://www.youtube.com/watch?v=PRh80RyT74I)
-
-A short introduction to the three traits Lencioni associates with ideal teammates: humility, hunger, and people smarts.
+### Personal Growth and Creativity ###
 
 [The Health Benefits of Gratitude](https://pmc.ncbi.nlm.nih.gov/articles/PMC3010965/)
 
 Reviews research linking gratitude with well-being and discusses ways to cultivate it.
 
-[Yog's Law](https://chrisstead.net/power-dynamics/yogs-law/workplace-safety/2021/07/16/yog-s-law-power-responsibility-and-accountability)
-
-Argues that power should flow toward workers while managers retain responsibility and share accountability.
-
 [Creative Genius (TED)](https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius)
 
 Elizabeth Gilbert reflects on creativity and the idea of genius as something that can work through people.
 
-[9 Lies about Work Survey](https://catalystgrowthadvisors.com/2019/06/25/nine-lies-about-work-8-question-team-engagement-assessment/)
-
-An eight-question team-engagement survey covering both the individual and shared experience of work.
-
-[Financial Literacy and Why I Avoid the term Debt](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf)
-
-A personal perspective on financial literacy and why the author avoids framing financial obligations as debt.
-
-[Financial Literacy Questions](https://www.rainingpennies.com/investments/financial-literacy-test-quiz/)
-
-A three-question quiz on compound interest, inflation, and investment risk.
+### Cooperation and Helping ###
 
 [Evolution of Trust / Cooperation Game](https://ncase.me/trust/)
 
@@ -87,6 +87,16 @@ An interactive game-theory guide to how trust and cooperation can develop or bre
 [When Helping Hurts: How to Alleviate Poverty Without Hurting the Poor . . . and Yourself (Book)](https://a.co/d/09prfXLA)
 
 A Christian perspective on poverty alleviation that questions how well-intended help can unintentionally cause harm.
+
+### Financial Literacy ###
+
+[Financial Literacy and Why I Avoid the term Debt](http://media.wix.com/ugd/a738b9_9a413bc46954faf89b8f7e10d9239340.pdf)
+
+A personal perspective on financial literacy and why the author avoids framing financial obligations as debt.
+
+[Financial Literacy Questions](https://www.rainingpennies.com/investments/financial-literacy-test-quiz/)
+
+A three-question quiz on compound interest, inflation, and investment risk.
 
 ## Responsibility Process ##
 
@@ -124,6 +134,8 @@ A practical guide to ongoing customer research and testing product ideas through
 
 Research on the cognitive, classroom, and well-being effects associated with media multitasking.
 
+### Cognitive Effects ###
+
 [Higher Media Multi-Tasking Activity Is Associated with Smaller Gray-Matter Density in the Anterior Cingulate Cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174517/)
 
 Reports an association between heavier media multitasking and smaller gray-matter density in the anterior cingulate cortex; it cannot establish cause and effect.
@@ -135,6 +147,8 @@ Reports an association between heavier media multitasking and weaker working- an
 [Media multitasking is associated with distractibility and increased prefrontal activity in adolescents and young adults](https://www.sciencedirect.com/science/article/abs/pii/S1053811916300441)
 
 Links media multitasking with distractibility and increased prefrontal activity in adolescents and young adults.
+
+### Classroom and Well-Being Effects ###
 
 [Laptop multitasking hinders classroom learning for both users and nearby peers](https://www.sciencedirect.com/science/article/pii/S0360131512002254)
 
@@ -148,9 +162,17 @@ Summarizes research linking more media multitasking with higher self-reported sy
 
 Resources on how people learn, systems thinking, and creating effective learning experiences.
 
+### Learning Science and Practice ###
+
 [Veritosium Kahn Video](https://www.youtube.com/watch?v=eVtCO84MDj8)
 
 Explores how people learn and how to teach effectively, using science videos as examples; useful for anyone preparing to train others.
+
+[Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying; A Guide for Kids and Teens (Book)](https://a.co/d/0cEsR6jF)
+
+A teen-focused guide to practical study strategies and the science of learning.
+
+### Systems Thinking and Learning Organizations ###
 
 [The Fifth Discipline (Book)](https://a.co/d/00HXDema)
 
@@ -160,13 +182,11 @@ Introduces systems thinking and the learning organization, with practices for he
 
 Explores why complex systems often behave unexpectedly and fail in ways their designers did not intend.
 
-[Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying; A Guide for Kids and Teens (Book)](https://a.co/d/0cEsR6jF)
-
-A teen-focused guide to practical study strategies and the science of learning.
-
 ## Leadership And Coaching ##
 
 Resources on building trust, leading teams, motivating people, navigating change, and developing as a coach.
+
+### Leading People and Organizations ###
 
 [Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
 
@@ -184,25 +204,45 @@ Shows how leaders can move from giving orders to enabling people to take respons
 
 Challenges common assumptions about workplace culture, performance, leadership, and what motivates people.
 
-[Leadership and Self-Deception (Book)](https://a.co/d/0cEMhugV)
-
-A story about how self-deception undermines relationships and how seeing others as people can change behavior.
-
 [Secrets to Winning at Office Politics (Book)](https://a.co/d/04mxVaqm)
 
 Practical advice for understanding workplace dynamics and building influence.
 
-[Drive: The Surprising Truth About What Motivates Us (Book)](https://a.co/d/03lq9c31)
+[Joy, Inc.: How We Built a Workplace People Love (Book)](https://a.co/d/0cx1xUMb)
 
-Explains why autonomy, mastery, and purpose can motivate complex work better than carrots and sticks.
+An account of building a workplace centered on collaboration, employee experience, and joy.
+
+### Self-Awareness and Relationships ###
+
+[Leadership and Self-Deception (Book)](https://a.co/d/0cEMhugV)
+
+A story about how self-deception undermines relationships and how seeing others as people can change behavior.
 
 [What Got You Here Won't Get You There (Book)](https://a.co/d/0g2E6Ckq)
 
 Identifies interpersonal habits that can hold successful people back and offers ways to change them.
 
+[Emotional Intelligence 2.0 (Book)](https://a.co/d/0erdLy0V)
+
+Practical exercises for improving self-awareness, self-management, social awareness, and relationship skills.
+
+[The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People's Lives Better, Too) (Book)](https://a.co/d/0hBGVZLq)
+
+Describes four ways people respond to expectations to help explain differences in motivation and behavior.
+
 [The 7 Habits of Highly Effective People (30th Anniversary Edition, Book)](https://a.co/d/01jYlA0R)
 
 A principle-centered framework for personal effectiveness, from taking initiative to renewing yourself.
+
+### Motivation and Change ###
+
+[Drive: The Surprising Truth About What Motivates Us (Book)](https://a.co/d/03lq9c31)
+
+Explains why autonomy, mastery, and purpose can motivate complex work better than carrots and sticks.
+
+[The Power of Habit: Why We Do What We Do in Life and Business (Book)](https://a.co/d/03tekNMm)
+
+Explains how habits form and how understanding their cues and rewards can help change behavior.
 
 [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results (Book)](https://a.co/d/065MH9Lo)
 
@@ -212,13 +252,7 @@ Practical guidance for making sustainable change through small, deliberate shift
 
 A framework for change that addresses rational thinking, emotional motivation, and the surrounding environment.
 
-[The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People's Lives Better, Too) (Book)](https://a.co/d/0hBGVZLq)
-
-Describes four ways people respond to expectations to help explain differences in motivation and behavior.
-
-[Emotional Intelligence 2.0 (Book)](https://a.co/d/0erdLy0V)
-
-Practical exercises for improving self-awareness, self-management, social awareness, and relationship skills.
+### Coaching and Communication ###
 
 [Made to Stick: Why Some Ideas Survive and Others Die (Book)](https://a.co/d/0cPJ9S3m)
 
@@ -228,17 +262,11 @@ Explores why some ideas are memorable and how to make messages more likely to st
 
 A practical guide to coaching through seven questions that help leaders listen more and advise less.
 
-[Joy, Inc.: How We Built a Workplace People Love (Book)](https://a.co/d/0cx1xUMb)
-
-An account of building a workplace centered on collaboration, employee experience, and joy.
-
-[The Power of Habit: Why We Do What We Do in Life and Business (Book)](https://a.co/d/03tekNMm)
-
-Explains how habits form and how understanding their cues and rewards can help change behavior.
-
 ## Facilitator Tools ##
 
 Practical tools for organizing participation and keeping group activities moving.
+
+### Group Formation ###
 
 [List Shuffler](https://www.random.org/lists/)
 
@@ -248,9 +276,11 @@ Randomizes a list to set a speaking order, assign roles, or choose activities.
 
 Generates possible pairings or groupings when planning activities.
 
-[Distributed Mob Timer](https://mobti.me/)
+[Random Team Generator](https://www.gigacalculator.com/randomizers/random-team-generator.php)
 
-A timer for rotating roles during distributed mob-programming sessions.
+Randomly divides a group into teams.
+
+### Roles and Rotations ###
 
 [My Version of the Ada Initiative Role Cards (pdf)](./artifacts/MeetingRoleCards.pdf)
 
@@ -260,13 +290,15 @@ Printable meeting role cards adapted from the Ada Initiative's set.
 
 The role cards in an editable PowerPoint format.
 
+[Distributed Mob Timer](https://mobti.me/)
+
+A timer for rotating roles during distributed mob-programming sessions.
+
+### Facilitation Methods and Activities ###
+
 [Mobprogramming RPG](https://github.com/willemlarsen/mobprogrammingrpg)
 
 A facilitated game for exploring mob programming through rotating roles and a coding exercise.
-
-[Random Team Generator](https://www.gigacalculator.com/randomizers/random-team-generator.php)
-
-Randomly divides a group into teams.
 
 [Liberating Structures](https://www.liberatingstructures.com/)
 
@@ -276,9 +308,21 @@ A collection of facilitation methods for involving everyone in group conversatio
 
 Resources for building trust, managing conflict, communicating well, and working toward shared results.
 
+### Team Effectiveness ###
+
 [The 5 Behaviors of a Cohesive Team](https://www.cogent-solutions.com/5-behaviors-of-a-cohesive-team/)
 
 Presents five foundations of team effectiveness: trust, healthy conflict, commitment, accountability, and collective results.
+
+[The Five Dysfunctions of a Team (Book)](https://a.co/d/0hmWXcgy)
+
+A leadership fable showing how absence of trust can lead to conflict avoidance, weak commitment, poor accountability, and lost results.
+
+[The Ideal Team Player (Book)](https://a.co/d/0gbaZvpi)
+
+Describes three traits of effective teammates: humility, hunger, and people smarts.
+
+### Communication and Conflict ###
 
 [The 4 Team Toxins/Horsemen (Gottman)](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
 
@@ -296,29 +340,29 @@ Practical tools for conversations where stakes are high, opinions differ, and em
 
 Uses a story to explore how seeing others as people, rather than obstacles, can change conflict and relationships.
 
-[The Five Dysfunctions of a Team (Book)](https://a.co/d/0hmWXcgy)
-
-A leadership fable showing how absence of trust can lead to conflict avoidance, weak commitment, poor accountability, and lost results.
-
-[The Ideal Team Player (Book)](https://a.co/d/0gbaZvpi)
-
-Describes three traits of effective teammates: humility, hunger, and people smarts.
-
 ## Process ##
 
 Resources on managing flow, understanding variation, and improving work without treating constant busyness as the goal.
+
+### Managing Flow and Delivery ###
+
+[Blue Flow Book by Donald G. Reinertsen](https://a.co/d/jcWW059)
+
+Practical methods for improving product-development flow by managing queues, batch sizes, work in progress, feedback, and variability.
+
+[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win (Book)](https://a.co/d/01HDNqsm)
+
+An IT novel illustrating how bottlenecks, work flow, and cross-team collaboration affect business outcomes.
 
 [Improving The Stand-Up](https://improvingflow.com/2021/05/17/improving-standup.html)
 
 Reframes the stand-up as a quick, work-focused meeting to move items forward and address blockers, not a round of status reports.
 
+### Capacity and Sustainable Work ###
+
 [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
 
 Explains why slack time and spare capacity help people and organizations respond, adapt, and improve.
-
-[ReWork (Book)](https://a.co/d/09WiPzTw)
-
-Short, contrarian essays on building a business by simplifying, acting, and questioning conventional wisdom.
 
 [Slack Simulator](https://setosa.io/blog/2014/09/02/gridlock/)
 
@@ -328,21 +372,19 @@ An interactive traffic simulation showing how slack (spare capacity) prevents gr
 
 Argues for sustainable, intentional work that values quality over raw task throughput.
 
-[Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
+[ReWork (Book)](https://a.co/d/09WiPzTw)
 
-An introduction to using XmR charts to distinguish routine variation from meaningful process changes and assess improvement.
+Short, contrarian essays on building a business by simplifying, acting, and questioning conventional wisdom.
+
+### Process Improvement and Measurement ###
 
 [The New Economics for Industry, Government, Education (Book, 3rd ed.)](https://a.co/d/0bRTmWcB)
 
 Deming's management philosophy, including the System of Profound Knowledge and its approach to transforming organizations.
 
-[Blue Flow Book by Donald G. Reinertsen](https://a.co/d/jcWW059)
+[Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
 
-Practical methods for improving product-development flow by managing queues, batch sizes, work in progress, feedback, and variability.
-
-[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win (Book)](https://a.co/d/01HDNqsm)
-
-An IT novel illustrating how bottlenecks, work flow, and cross-team collaboration affect business outcomes.
+An introduction to using XmR charts to distinguish routine variation from meaningful process changes and assess improvement.
 
 [NoEstimates: How To Measure Project Progress Without Estimating (Book)](https://a.co/d/0bDec3km)
 
@@ -384,69 +426,83 @@ Research on how automating tests affects software delivery and outcomes.
 
 Examines how test automation relates to software cost, quality, and time to market.
 
-## Pair Programming Research ##
+## XP Research ##
 
 Resources examining pair programming's effects on software quality and performance, alongside related research on test-driven development.
+
+### Pair Programming Research ###
 
 [The Costs and Benefits of Pair Programming](https://web.eecs.umich.edu/~weimerw/2026-481W/readings/pairprogramming.pdf)
 
 A balanced look at the tradeoffs of programming in pairs, including potential benefits and added effort.
 
+[Strengthening the Case for Pair Programming](http://swiki.cs.colorado.edu/dlc-2004/uploads/154/ieeeSoftware.pdf)
+
+Presents experimental evidence on pair programming's effects on development time and software quality.
+
 [The Effects of Pair-Programming on Performance in an Introductory Programming Course](https://courses.cs.washington.edu/courses/cse590e/02sp/pairprogramming.pdf)
 
 An introductory-course study examining how pair programming relates to student performance.
 
-[Strengthening the Case for Pair Programming](http://swiki.cs.colorado.edu/dlc-2004/uploads/154/ieeeSoftware.pdf)
-
-Presents experimental evidence on pair programming's effects on development time and software quality.
+### Related Test-Driven Development Research ###
 
 [TDD Dynamics Understanding the Impact of Test-Driven Development on Software Quality and Productivity](https://rshare.library.torontomu.ca/articles/thesis/TDD_Dynamics_Understanding_the_Impact_of_Test-Driven-Development_on_Software_Quality_and_Productivity/14661051?file=28143561)
 
 Reviews mixed TDD research and uses meta-analysis and simulation to explore factors that may affect quality and productivity outcomes.
 
-## Programming ##
+## Software Development ##
 
 Resources on testing, version control, naming, software design, security, and developer tools.
+
+### Testing ###
 
 [What Makes A Good Test Suite](https://llewellynfalco.blogspot.com/2021/04/the-4-benefits-of-tests.html)
 
 Describes four benefits of tests: specification, feedback, regression protection, and useful failure detail.
 
+[Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)
+
+Explains the shared term for test replacements, including dummies, fakes, stubs, spies, and mocks.
+
+### Collaboration and Version Control ###
+
 [Learn Git Branching](https://learngitbranching.js.org/)
 
 An interactive, visual tutorial for learning Git commands and branching concepts.
-
-[Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/)
-
-Presents naming as an iterative design practice for making code responsibilities and intent clearer.
-
-[The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U)
-
-A conference talk that explores programming language design through the creation of an intentionally awful language.
 
 [Why 'Pull Requests' are ineffective](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
 
 Argues that effective reviews require reviewers to engage with the code, test alternatives, and share implementation work.
 
-[Test Doubles](https://www.martinfowler.com/bliki/TestDouble.html)
+[Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
 
-Explains the shared term for test replacements, including dummies, fakes, stubs, spies, and mocks.
+Annotates commits with their intent and risk level to communicate what changed and how it was verified.
+
+### Design and Software Concepts ###
+
+[Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/)
+
+Presents naming as an iterative design practice for making code responsibilities and intent clearer.
+
+[SOLID Explanation](https://okso.app/showcase/solid)
+
+An interactive visual introduction to the five SOLID object-oriented design principles.
 
 [A curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
 
 A collection of assumptions about real-world data and behavior that software often gets wrong.
 
+[The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U)
+
+A conference talk that explores programming language design through the creation of an intentionally awful language.
+
+### Security ###
+
 [Threat Modeling For The Developer by Martin Fowler](https://martinfowler.com/articles/agile-threat-modelling.html)
 
 Shows how teams can identify and prioritize security threats through small, regular threat-modeling sessions.
 
-[Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
-
-Annotates commits with their intent and risk level to communicate what changed and how it was verified.
-
-[SOLID Explanation](https://okso.app/showcase/solid)
-
-An interactive visual introduction to the five SOLID object-oriented design principles.
+### Developer Tools ###
 
 [Cron JOB Scheduling](https://crontab.cronhub.io/)
 

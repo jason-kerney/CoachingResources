@@ -1,0 +1,6 @@
+(documents
+    (document
+        (source ./_readme.dlisp)
+        (output ../README.md)
+    )
+)

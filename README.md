@@ -204,10 +204,6 @@ Shows how leaders can move from giving orders to enabling people to take respons
 
 Challenges common assumptions about workplace culture, performance, leadership, and what motivates people.
 
-[Leadership and Self-Deception (Book)](https://a.co/d/0cEMhugV)
-
-A story about how self-deception undermines relationships and how seeing others as people can change behavior.
-
 [Secrets to Winning at Office Politics (Book)](https://a.co/d/04mxVaqm)
 
 Practical advice for understanding workplace dynamics and building influence.
